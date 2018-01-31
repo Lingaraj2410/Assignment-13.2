@@ -1,4 +1,4 @@
-#Problem Statement:
+# Problem Statement:
 
 Fibonacci series (starting from 1) written in order without any spaces in between, thus producing a sequence of digits.
 
